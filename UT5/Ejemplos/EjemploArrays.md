@@ -67,7 +67,7 @@ public static void ejemplo1() {
 
 ---
 
-### **Ejemplo2()**
+### **Ejemplo2**
 
 Este ejemplo es crucial para entender la diferencia entre **copiar la referencia** de un array y **crear una copia real** de su contenido.
 
